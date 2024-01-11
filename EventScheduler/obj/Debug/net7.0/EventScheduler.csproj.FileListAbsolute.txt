@@ -1,0 +1,210 @@
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\appsettings.json
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\EventScheduler.exe
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\EventScheduler.deps.json
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\EventScheduler.runtimeconfig.json
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\EventScheduler.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\EventScheduler.pdb
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\obj\Debug\net7.0\EventScheduler.csproj.AssemblyReference.cache
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\obj\Debug\net7.0\EventScheduler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\obj\Debug\net7.0\EventScheduler.AssemblyInfoInputs.cache
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\obj\Debug\net7.0\EventScheduler.AssemblyInfo.cs
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\obj\Debug\net7.0\EventScheduler.csproj.CoreCompileInputs.cache
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\obj\Debug\net7.0\EventScheduler.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\obj\Debug\net7.0\EventScheduler.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\obj\Debug\net7.0\staticwebassets\msbuild.EventScheduler.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\obj\Debug\net7.0\staticwebassets\msbuild.build.EventScheduler.props
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EventScheduler.props
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EventScheduler.props
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\obj\Debug\net7.0\scopedcss\bundle\EventScheduler.styles.css
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\obj\Debug\net7.0\EventScheduler.csproj.CopyComplete
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\obj\Debug\net7.0\EventScheduler.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\obj\Debug\net7.0\refint\EventScheduler.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\obj\Debug\net7.0\EventScheduler.pdb
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\obj\Debug\net7.0\EventScheduler.genruntimeconfig.cache
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\obj\Debug\net7.0\ref\EventScheduler.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\MediatR.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\Hangfire.AspNetCore.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\Hangfire.Core.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\Hangfire.NetCore.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\Hangfire.SqlServer.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\ca\Hangfire.Core.resources.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\de\Hangfire.Core.resources.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\es\Hangfire.Core.resources.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\fa\Hangfire.Core.resources.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\fr\Hangfire.Core.resources.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\nb\Hangfire.Core.resources.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\nl\Hangfire.Core.resources.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\pt-BR\Hangfire.Core.resources.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\pt-PT\Hangfire.Core.resources.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\pt\Hangfire.Core.resources.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\sv\Hangfire.Core.resources.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\tr-TR\Hangfire.Core.resources.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\zh-TW\Hangfire.Core.resources.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\zh\Hangfire.Core.resources.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\Npgsql.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\Dapper.dll
+C:\Users\Abeer Khan\source\repos\EventScheduler\EventScheduler\bin\Debug\net7.0\Hangfire.PostgreSql.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\appsettings.Development.json
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\appsettings.json
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\EventScheduler.exe
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\EventScheduler.deps.json
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\EventScheduler.runtimeconfig.json
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\EventScheduler.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\EventScheduler.pdb
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\AutoMapper.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\Azure.Core.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\Azure.Identity.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\Dapper.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\Hangfire.AspNetCore.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\Hangfire.Core.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\Hangfire.NetCore.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\Hangfire.PostgreSql.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\Hangfire.SqlServer.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\Humanizer.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\MediatR.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\Npgsql.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\RabbitMQ.Client.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\System.CodeDom.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\System.Memory.Data.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\ca\Hangfire.Core.resources.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\de\Hangfire.Core.resources.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\es\Hangfire.Core.resources.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\fa\Hangfire.Core.resources.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\fr\Hangfire.Core.resources.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\nb\Hangfire.Core.resources.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\nl\Hangfire.Core.resources.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\pt-BR\Hangfire.Core.resources.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\pt-PT\Hangfire.Core.resources.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\pt\Hangfire.Core.resources.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\sv\Hangfire.Core.resources.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\tr-TR\Hangfire.Core.resources.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\zh-TW\Hangfire.Core.resources.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\zh\Hangfire.Core.resources.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\PROJECTS\EventScheduler\EventScheduler\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\PROJECTS\EventScheduler\EventScheduler\obj\Debug\net7.0\EventScheduler.csproj.AssemblyReference.cache
+E:\PROJECTS\EventScheduler\EventScheduler\obj\Debug\net7.0\EventScheduler.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECTS\EventScheduler\EventScheduler\obj\Debug\net7.0\EventScheduler.AssemblyInfoInputs.cache
+E:\PROJECTS\EventScheduler\EventScheduler\obj\Debug\net7.0\EventScheduler.AssemblyInfo.cs
+E:\PROJECTS\EventScheduler\EventScheduler\obj\Debug\net7.0\EventScheduler.csproj.CoreCompileInputs.cache
+E:\PROJECTS\EventScheduler\EventScheduler\obj\Debug\net7.0\EventScheduler.MvcApplicationPartsAssemblyInfo.cs
+E:\PROJECTS\EventScheduler\EventScheduler\obj\Debug\net7.0\EventScheduler.MvcApplicationPartsAssemblyInfo.cache
+E:\PROJECTS\EventScheduler\EventScheduler\obj\Debug\net7.0\staticwebassets\msbuild.EventScheduler.Microsoft.AspNetCore.StaticWebAssets.props
+E:\PROJECTS\EventScheduler\EventScheduler\obj\Debug\net7.0\staticwebassets\msbuild.build.EventScheduler.props
+E:\PROJECTS\EventScheduler\EventScheduler\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EventScheduler.props
+E:\PROJECTS\EventScheduler\EventScheduler\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EventScheduler.props
+E:\PROJECTS\EventScheduler\EventScheduler\obj\Debug\net7.0\staticwebassets.pack.json
+E:\PROJECTS\EventScheduler\EventScheduler\obj\Debug\net7.0\staticwebassets.build.json
+E:\PROJECTS\EventScheduler\EventScheduler\obj\Debug\net7.0\staticwebassets.development.json
+E:\PROJECTS\EventScheduler\EventScheduler\obj\Debug\net7.0\scopedcss\bundle\EventScheduler.styles.css
+E:\PROJECTS\EventScheduler\EventScheduler\obj\Debug\net7.0\EventScheduler.csproj.CopyComplete
+E:\PROJECTS\EventScheduler\EventScheduler\obj\Debug\net7.0\EventScheduler.dll
+E:\PROJECTS\EventScheduler\EventScheduler\obj\Debug\net7.0\refint\EventScheduler.dll
+E:\PROJECTS\EventScheduler\EventScheduler\obj\Debug\net7.0\EventScheduler.pdb
+E:\PROJECTS\EventScheduler\EventScheduler\obj\Debug\net7.0\EventScheduler.genruntimeconfig.cache
+E:\PROJECTS\EventScheduler\EventScheduler\obj\Debug\net7.0\ref\EventScheduler.dll

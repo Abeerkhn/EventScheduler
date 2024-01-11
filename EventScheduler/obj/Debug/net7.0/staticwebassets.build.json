@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RcWiIDgXGpu7/UfO67s0AHFP4/jnZtUhfTZYZcxkzMU=",
+  "Source": "EventScheduler",
+  "BasePath": "_content/EventScheduler",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
